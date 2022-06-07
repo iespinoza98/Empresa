@@ -8,7 +8,7 @@
                     <div class="col-lg-8 col-md-9">
                         <div class="hero-content text-center text-white">
                            <span class="sub-title d-block wow fadeInUp delay-0-2s">Innovatec Proyectos</span>
-                            <h1 class="wow fadeInUp delay-0-4s mt-20">Desarrollo y Desarrollo de Páginas Web</h1>
+                            <h1 class="wow fadeInUp delay-0-4s mt-20">Diseño y Desarrollo de Páginas Web</h1>
                             <div class="hero-btn mt-35 wow fadeInUp delay-0-6s">
                                 <a href="contact.html" class="theme-btn">Contáctanos</a>
                             </div>
