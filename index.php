@@ -37,7 +37,7 @@
                             <div class="service-hover bg-blue text-white">
                                 <h3>Adaptación a dispositivos</h3>
                                 <p>Alrededor del 60-70% de todas las personas visitan una página web a través de un dispositivo móvil</p>
-                                <a href="service-details.html" class="theme-btn">Learn More</a>
+                                <a href="servicios.php" class="theme-btn">Ver mas</a>
                             </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                             <div class="service-hover bg-blue text-white">
                                 <h3>Optimización SEO</h3>
                                 <p>De nada sirve tener un sitio web empresarial hermoso si no es visible en Google</p>
-                                <a href="service-details.html" class="theme-btn">Learn More</a>
+                                <a href="servicios.php" class="theme-btn">Ver mas</a>
                             </div>
                         </div>
                     </div>
@@ -71,7 +71,7 @@
                             <div class="service-hover bg-blue text-white">
                                 <h3>Buena usabilidad y organización</h3>
                                 <p>Dale el control absoluto y facilita la navegación al usuario para que se siente cómodo</p>
-                                <a href="service-details.html" class="theme-btn">Learn More</a>
+                                <a href="servicios.php" class="theme-btn">Ver mas</a>
                             </div>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                             <div class="service-hover bg-blue text-white">
                                 <h3>Web segura</h3>
                                 <p>Software actualizado para evitar intentos de piratería y realizar copias de seguridad con regularidad en caso de pérdida de datos</p>
-                                <a href="service-details.html" class="theme-btn">Learn More</a>
+                                <a href="servicios.php" class="theme-btn">Ver mas</a>
                             </div>
                         </div>
                     </div>
@@ -123,6 +123,7 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="fact-counter-inner br-5 px-25 pt-80 pb-30 text-white text-center" style="background-image: url(assets/images/counter/counter-bg.jpg)">
                     <div class="row">
                         <div class="col-lg-3 col-sm-6">
@@ -154,65 +155,59 @@
             </div>
         </section>
         <!-- About Section End -->
-        
-        <!-- Pricing Section Start -->
-        <br><section class="pricing-section pt-115 rpt-95 pb-90 rpb-70" style="background-image: url(assets/images/feature/feature-bg.jpg);">
+
+        <section class="featured-section bgs-cover pt-240 rpt-150 pb-120 rpb-100" style="background-image: url(assets/images/feature/feature-bg.jpg);">
             <div class="container">
-                <div class="section-title text-center mb-35"><br>
-                    <h2>Nuestros Planes</h2>
-                </div>
                 <div class="row justify-content-center">
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="pricing-item wow fadeInUp delay-0-2s">
-                            <div class="pricing-header">
-                                <h5 class="pricing-title">Standard</h5>
-                                <span class="price">29.99</span>
-                                <h5 class="pricing-time">Per Month</h5>
-                            </div>
-                            <ul>
-                                <li>Limited install</li>
-                                <li>Unlimited Download</li>
-                                <li>Free One Year Support</li>
-                                <li>Free 15 GB Linux Hosting</li>
-                            </ul>
-                            <a class="theme-btn btn-circle" href="#">Choose Plan</a>
+                    <div class="col-lg-6 col-md-8 col-sm-10">
+                        <div class="section-title text-center mb-35">
+                            <span class="sub-title">NUESTROS SERVICIOS</span>
+                            <h2>Nos ocupamos de los aspectos de los servicios profesionales</h2>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="pricing-item wow fadeInUp delay-0-4s">
-                            <div class="pricing-header">
-                                <h5 class="pricing-title">BUSINESS</h5>
-                                <span class="price">59.99</span>
-                                <h5 class="pricing-time">Per Month</h5>
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-xl-4 col-md-6">
+                        <div class="feature-item wow fadeInUp delay-0-2s">
+                            <div class="icon">
+                                <i class="flaticon flaticon-art"></i>
                             </div>
-                            <ul>
-                                <li>Limited install</li>
-                                <li>Unlimited Download</li>
-                                <li>Free One Year Support</li>
-                                <li>Free 15 GB Linux Hosting</li>
-                            </ul>
-                            <a class="theme-btn btn-circle" href="#">Choose Plan</a>
+                            <div class="feature-content">
+                                <h5>Páginas Web</h5>
+                                <p>Nos especializamos en el diseño de sitios web manejables, por lo que tiene el control de su sitio, conoce su negocio, por lo que debe administrarlo.</p>
+                                <a href="servicios.php" class="learn-more">Ver mas <i class="fas fa-arrow-right"></i></a>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="pricing-item wow fadeInUp delay-0-6s">
-                            <div class="pricing-header">
-                                <h5 class="pricing-title">PREMIUM</h5>
-                                <span class="price">79.99</span>
-                                <h5 class="pricing-time">Per Month</h5>
+                    <div class="col-xl-4 col-md-6">
+                        <div class="feature-item wow fadeInUp delay-0-4s">
+                            <div class="icon">
+                                <i class="flaticon flaticon-cloud-computing-1"></i>
                             </div>
-                            <ul>
-                                <li>Limited install</li>
-                                <li>Unlimited Download</li>
-                                <li>Free One Year Support</li>
-                                <li>Free 15 GB Linux Hosting</li>
-                            </ul>
-                            <a class="theme-btn btn-circle" href="#">Choose Plan</a>
+                            <div class="feature-content">
+                                <h5>Tiendas Online</h5>
+                                <p>Nos encargamos de ofrecerle una interfaz comercial para facilitar las ventas de tus productos.</p>
+                                <a href="servicios.php" class="learn-more">Ver mas <i class="fas fa-arrow-right"></i></a>
+                            </div>
                         </div>
                     </div>
+                    <div class="col-xl-4 col-md-6">
+                        <div class="feature-item wow fadeInUp delay-0-6s">
+                            <div class="icon">
+                                <i class="flaticon flaticon-development-3"></i>
+                            </div>
+                            <div class="feature-content">
+                                <h5>Sistemas Web</h5>
+                                <p>Un sistema web personalizado le ahorrará costes, tiempo y recursos humanos.</p>
+                                <a href="servicios.php" class="learn-more">Ver mas <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="feature-btn text-center mt-20">
+                    <a href="servicios.php" class="theme-btn">Ver todos los servicios</a>
                 </div>
             </div>
         </section>
-        <!-- Pricing Section End -->
                    
         <?php include ("footer.php"); ?>

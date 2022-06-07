@@ -29,6 +29,8 @@
     <link rel="stylesheet" href="assets/css/slick.css">
     <!--====== Main Style ======-->
     <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="assets/js/personalizados.js"></script>
     
 </head>
 <body>

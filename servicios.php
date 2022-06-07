@@ -6,11 +6,11 @@
         <section class="page-banner bgs-cover overlay pt-50" style="background-image: url(assets/images/banner.jpg);">
             <div class="container">
                 <div class="banner-inner">
-                    <h1 class="page-title">Detalles de los Servicios</h1>
+                    <h1 class="page-title">Servicios</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">Restly</a></li>
-                            <li class="breadcrumb-item active">Detalles de los Servicios</li>
+                            <li class="breadcrumb-item"><a href="index.html">Innovatec TI</a></li>
+                            <li class="breadcrumb-item active">Servicios</li>
                         </ol>
                     </nav>
                 </div>
@@ -27,10 +27,10 @@
                         <div class="service-sidebar rmb-55 wow fadeInLeft delay-0-2s">
                            <div class="widget widget-services">
                                <ul>
-                                   <li><a href="service-details.html">Desarrollo Web</a></li>
-                                   <li class="active"><a href="service-details.html">Tiendas Online</a></li>
-                                   <li><a href="service-details.html">Desarrollo de Apps</a></li>
-                                   <li><a href="service-details.html">Sistemas Web</a></li>
+                                   <li name="dservicio" class="active"><a name="sDesarrollo" onclick="viewDetail(this)">Páginas Web</a></li>
+                                   <li name="dservicio"><a name="sTienda" onclick="viewDetail(this)">Tiendas Online</a></li>
+                                   <!-- <li name="dservicio"><a name="sApps" onclick="viewDetail(this)">Desarrollo de Apps</a></li> -->
+                                   <li name="dservicio"><a name="sSistemas" onclick="viewDetail(this)">Sistemas Web</a></li>
                                 </ul>
                            </div>
                             <div class="widget contact-info-widget contact-image-number style-two bgs-cover overlay" style="background-image: url(assets/images/contact/home-two.jpg);">
@@ -64,21 +64,21 @@
                         </div>
                     </div>
                     <div class="col-lg-8">
-                        <div class="service-details-content wow fadeInRight delay-0-2s">
+                        <div id="contentsService" class="service-details-content wow fadeInRight delay-0-2s">
                             <div class="image mb-40">
                                 <img src="assets/images/services/service-details.jpg" alt="Service Details">
                             </div>
-                            <h2>Tiendas Online</h2>
-                            <p>Actualmente es muy importante tener una tienda online por lo que nos encargamos de ofrecerle una interfaz comercial para facilitar las ventas de tus productos.</p>
+                            <h2>Desarrollo de Páginas Web</h2>
+                            <p>Las empresas de hoy necesitan aprovechar al máximo Internet. Por lo tanto, tienen que desarrollar aplicaciones o sitios web donde puedan entregar sus productos o automatizar procesos comerciales.</p>
                             <ul class="list-style-three pt-15 pb-30">
-                                <li>Diseño Responsive</li>
-                                <li>Pasarelas de Pago</li>
-                                <li>Análisis y Reportes</li>
-                                <li>Complementos Especializados</li>
+                                <li>Buena usabilidad y organización</li>
+                                <li>Contenido de calidad</li>
+                                <li>Responsiva</li>
+                                <li>Diseño adaptado al estilo corporativo</li>
                             </ul>
-                            <h3>Síntesis para el diseño de tiendas</h3>
-                            <p>En la actulidad existen diversas platformas(CMS) que permiten el diseño de tiendas virtuales con mayor rapidez. Para ello adaptamos un diseño exclusivo y estructura integrando todas las funcionalidades y plugins necesarios</p>
-                            </div>
+                            <h3>La importancia de contar con una página web</h3>
+                            <p>Cuando una organización tiene un sitio web, aumenta la reputación de la organización y permite que los clientes aumenten su  confianza en el producto o servicio que ofrece la organización. Los sitios web ayudan a aumentar las ventas, la productividad y el valor de mercado de cualquier PYME.</p>
+                        </div>
                     </div>
                 </div>
             </div>

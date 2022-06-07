@@ -9,7 +9,7 @@
                     <h1 class="page-title">Proyectos</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.php">Innovatec Proyectos</a></li>
+                            <li class="breadcrumb-item"><a href="index.php">Innovatec TI</a></li>
                             <li class="breadcrumb-item active">Nuestros Proyectos</li>
                         </ol>
                     </nav>
@@ -25,7 +25,7 @@
                <ul class="portfolio-filter mb-45">
                     <li data-filter="*" class="current">Todo</li>
                     <li data-filter=".sistemas_web">Sistemas Web</li>
-                    <li data-filter=".apps">Apps</li>
+                    <!-- <li data-filter=".apps">Apps</li> -->
                     <li data-filter=".ecommerce">Tiendas Virtuales</li>
                     <li data-filter=".web">Paginas Web</li>
                     <li data-filter=".diseño_grafico">Diseño Grafico</li>

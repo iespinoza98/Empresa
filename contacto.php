@@ -10,7 +10,7 @@
                     <h1 class="page-title">Contáctanos</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">InnovatecTI</a></li>
+                            <li class="breadcrumb-item"><a href="index.html">Innovatec TI</a></li>
                             <li class="breadcrumb-item active">Contacto</li>
                         </ol>
                     </nav>

@@ -7,7 +7,7 @@
                     <h1 class="page-title">Quienes Somos</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">InnovatecTI</a></li>
+                            <li class="breadcrumb-item"><a href="index.html">Innovatec TI</a></li>
                             <li class="breadcrumb-item active">Conócenos</li>
                         </ol>
                     </nav>
@@ -91,9 +91,9 @@
                                 <div class="icon">
                                     <i class="flaticon flaticon-speech-bubble"></i>
                                 </div>
-                                <h3>Advertising and <br>Marketing</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
-                                <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                <h3>Páginas Web</h3>
+                                <p>Nos especializamos en el diseño de sitios web manejables, por lo que tiene el control de su sitio, conoce su negocio, por lo que debe administrarlo.</p>
+                                <a href="servicios.php" class="learn-more">Leer mas <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6">
@@ -102,9 +102,9 @@
                                 <div class="icon">
                                     <i class="flaticon flaticon-vector"></i>
                                 </div>
-                                <h3>Web <br>Development</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
-                                <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                <h3>Tiendas Online</h3>
+                                <p>Nos encargamos de ofrecerle una interfaz comercial para facilitar las ventas de tus productos.</p>
+                                <a href="servicios.php" class="learn-more">Leer mas <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6">
@@ -113,9 +113,9 @@
                                 <div class="icon">
                                     <i class="flaticon flaticon-like-1"></i>
                                 </div>
-                                <h3>Mobile App <br>Development</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
-                                <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                <h3>Sistemas Web</h3>
+                                <p>Un sistema web personalizado le ahorrará costes, tiempo y recursos humanos.</p>
+                                <a href="servicios.php" class="learn-more">Leer mas <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -126,33 +126,11 @@
         
         
         <!-- Testimonial Section Start -->
-        <section class="testimonial-section bg-lighter pt-115 rpt-95 pb-120 rpb-100">
+        <!-- <section class="testimonial-section bg-lighter pt-115 rpt-95 pb-120 rpb-100">
             <div class="container">
                 <div class="section-title text-center mb-65">
                     <span class="sub-title">It Support For Business</span>
-                    <h2>Preparing for your success <br>trusted source in IT services.</h2>
-                </div>
-                <div class="fact-counter-color text-center mb-30">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="success-item wow fadeInUp delay-0-2s">
-                                <span class="count-text plus" data-speed="5000" data-stop="24">0</span>
-                                <p>Awards Won</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="success-item wow fadeInUp delay-0-4s">
-                                <span class="count-text plus" data-speed="5000" data-stop="12">0</span>
-                                <p>Years Experience</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                            <div class="success-item wow fadeInUp delay-0-6s">
-                                <span class="count-text plus" data-speed="5000" data-stop="352">0</span>
-                                <p>Happy Clients</p>
-                            </div>
-                        </div>
-                    </div>
+                    <h2>Nuestra estrategia es ser parte del crecimiento de IT<br>Con los siguientes objetivos.</h2>
                 </div>
                 <div class="testimonial-wrap">
                     <div class="testimonial-item wow fadeInLeft delay-0-2s">
@@ -164,7 +142,7 @@
                             </div>
                             <i class="fas fa-quote-right"></i>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                        <p>Tomando la innovación constante como nuestra clave para lograr nuestro objetivo final de éxito y así convertirnos en una empresa global al brindar servicios y soluciones superiores.</p>
                     </div>
                     <div class="testimonial-item wow fadeInRight delay-0-2s">
                         <div class="author-description">
@@ -175,7 +153,7 @@
                             </div>
                             <i class="fas fa-quote-right"></i>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                        <p>Cumplir con los requisitos del cliente para hacer crecer su negocio; proporcionarles las mejores soluciones informáticas. Nuestra recompensa: LA SATISFACCIÓN DEL CLIENTE</p>
                     </div>
                     <div class="testimonial-item">
                         <div class="author-description">
@@ -201,7 +179,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Testimonial Section End -->
     
         
