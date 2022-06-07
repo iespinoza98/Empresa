@@ -1,43 +1,3 @@
-<!DOCTYPE html>
-<html lang="zxx">
-<head>
-    <!--====== Required meta tags ======-->
-    <meta charset="utf-8" />
-    <meta name="description" content="" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!--====== Title ======-->
-    <title>Innovatec Proyecto || Diseño y Desarrollo de Páginas Web</title>
-    <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    <!--====== Google Fonts ======-->
-    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    
-    <!--====== Font Awesome ======-->
-    <link rel="stylesheet" href="assets/css/font-awesome-5.9.0.css">
-    <!--====== Bootstrap ======-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!--====== Magnific Popup ======-->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <!--====== Falticon ======-->
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <!--====== Animate ======-->
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <!--====== Slick ======-->
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <!--====== Main Style ======-->
-    <link rel="stylesheet" href="assets/css/style.css">
-    
-</head>
-<body>
-    <div class="page-wrapper">
-
-        <!-- Preloader -->
-        <div class="preloader">
-            <div class="theme-loader"></div>
-        </div>
-
         <?php include ('header.php'); ?>
         
         <!-- Page Banner Start -->
@@ -71,16 +31,15 @@
                         <div class="about-content pl-70 rpl-0 rpb-30 wow fadeInRight delay-0-2s">
                             <div class="section-title mb-35">
                                 <span class="sub-title">Desarrollo y Diseño web</span>
-                                <h2>Preparing for your success trusted source in IT services.</h2>
+                                <h3>Hagamos que tu negocio mejore, con un diseño web basado en la mejora de la experiencia del cliente</h3>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
                             <ul class="list-style-three mt-15">
-                                <li>which means as the company ramps</li>
-                                <li>Available in 14.1-in. and 16-in. versions.</li>
-                                <li>The potential loss of the Touch Bar.</li>
-                                <li>High-speed USB 4.0.</li>
+                                <li>Panel administrable</li>
+                                <li>Diseño a la medida</li>
+                                <li>Configuración de Correos Electrónicos</li>
+                                <li>Diseño responsive</li>
                             </ul>
-                            <a href="about.html" class="theme-btn style-three mt-25">View details</a>
+                            <a href="servicios.php" class="theme-btn style-three mt-25">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -342,30 +301,3 @@
         <!-- Contact Area End -->
                 
         <?php include ('footer.php'); ?>
-
-    </div>
-    <!--End pagewrapper-->
-   
-    <!-- Scroll Top Button -->
-    <button class="scroll-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></button>
-    
-
-    <!--====== Jquery ======-->
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
-    <!--====== Bootstrap ======-->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <!--====== Appear Js ======-->
-    <script src="assets/js/appear.min.js"></script>
-    <!--====== Slick ======-->
-    <script src="assets/js/slick.min.js"></script>
-    <!--====== Magnific Popup ======-->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!--====== Isotope ======-->
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <!--  WOW Animation -->
-    <script src="assets/js/wow.js"></script>
-    <!-- Custom script -->
-    <script src="assets/js/script.js"></script>
-
-</body>
-</html>

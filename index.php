@@ -1,42 +1,3 @@
-<!DOCTYPE html>
-<html lang="zxx">
-<head>
-    <!--====== Required meta tags ======-->
-    <meta charset="utf-8" />
-    <meta name="description" content="" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!--====== Title ======-->
-    <title>Innovatec Proyecto || Diseño y Desarrollo de Páginas Web</title>
-    <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    <!--====== Google Fonts ======-->
-    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    
-    <!--====== Font Awesome ======-->
-    <link rel="stylesheet" href="assets/css/font-awesome-5.9.0.css">
-    <!--====== Bootstrap ======-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!--====== Magnific Popup ======-->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <!--====== Falticon ======-->
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <!--====== Animate ======-->
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <!--====== Slick ======-->
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <!--====== Main Style ======-->
-    <link rel="stylesheet" href="assets/css/style.css">
-</head>
-<body>
-    <div class="page-wrapper">
-
-        <!-- Preloader -->
-        <div class="preloader">
-            <div class="theme-loader"></div>
-        </div>
-
         <?php include ('header.php'); ?>
     
         
@@ -69,7 +30,7 @@
                                 <div class="icon">
                                    <i class="flaticon flaticon-computer"></i>
                                 </div>
-                                <h6>Páginas web adaptativas / Responsive design</h6>
+                                <h6>Páginas web adaptativas</h6>
                                 <p>Una página debe adaptarse de manera automática, lógica y ordenada a cualquier dispositivo</p>
                                 <a class="btn-circle" href="service-details.html"><i class="fas fa-long-arrow-alt-right"></i></a>
                             </div>
@@ -104,7 +65,7 @@
                                    <i class="flaticon flaticon-web"></i>
                                 </div>
                                 <h6>Fácil navegación</h6>
-                                <p>Una buena usabilidad puede mejorar el rendimiento de su página web y aumentar sus posibilidades de conseguir más ventas</p>
+                                <p>Una buena usabilidad puede mejorar el rendimiento de su página web y aumentar sus ventas</p>
                                 <a class="btn-circle" href="service-details.html"><i class="fas fa-long-arrow-alt-right"></i></a>
                             </div>
                             <div class="service-hover bg-blue text-white">
@@ -149,15 +110,15 @@
                     <div class="col-lg-6">
                         <div class="about-content text-white pr-70 rpr-0 wow fadeInRight delay-0-2s">
                             <div class="section-title mb-35">
-                                <span class="sub-title">It Support For Business</span>
-                                <h2>Preparing for your success trusted source in IT services.</h2>
+                                <span class="sub-title">¿Que necesitas?</span>
+                                <h2>Nuestros servicios se adaptan a tus necesidades actuales y futuras</h2>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam  nostrud </p>
+                            <p>Sabemos que el mercado cada vez se hace más competitivo, por ello nuestros profesionales están capacitados en brindar una solución digital y efectiva.</p>
                             <ul class="list-style-one mt-15">
-                                <li>Custom shortcodes</li>
-                                <li>Data Analytics</li>
-                                <li>IT Consultancy</li>
-                                <li>Data security</li>
+                                <li>Desarrollo Web</li>
+                                <li>Tiendas Virtuales</li>
+                                <li>Sistemas Webs</li>
+                                <li>Desarrollo de Apps</li>
                             </ul>
                         </div>
                     </div>
@@ -166,26 +127,26 @@
                     <div class="row">
                         <div class="col-lg-3 col-sm-6">
                             <div class="success-item wow fadeInUp delay-0-2s">
-                                <span class="count-text" data-speed="5000" data-stop="520">0</span>
-                                <p>Projects Done</p>
+                                <span class="count-text" data-speed="5000" data-stop="100">0</span>
+                                <p>Proyectos</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="success-item wow fadeInUp delay-0-4s">
-                                <span class="count-text plus" data-speed="5000" data-stop="24">0</span>
-                                <p>Awards Won</p>
+                                <span class="count-text plus" data-speed="5000" data-stop="20">0</span>
+                                <p>Herrmientas</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="success-item wow fadeInUp delay-0-6s">
-                                <span class="count-text plus" data-speed="5000" data-stop="12">0</span>
-                                <p>Years Experience</p>
+                                <span class="count-text plus" data-speed="5000" data-stop="5">0</span>
+                                <p>Experiencia</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="success-item wow fadeInUp delay-0-8s">
-                                <span class="count-text plus" data-speed="5000" data-stop="352">0</span>
-                                <p>Happy Clients</p>
+                                <span class="count-text plus" data-speed="5000" data-stop="100">0</span>
+                                <p>Clientes</p>
                             </div>
                         </div>
                     </div>
@@ -194,152 +155,11 @@
         </section>
         <!-- About Section End -->
         
-        
-        <!-- Featured Section Start -->
-        <section class="featured-section bgs-cover pt-240 rpt-150 pb-120 rpb-100" style="background-image: url(assets/images/feature/feature-bg.jpg);">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6 col-md-8 col-sm-10">
-                        <div class="section-title text-center mb-35">
-                            <span class="sub-title">WHO WE ARE</span>
-                            <h2>We deal with the aspects of professional IT Services</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row align-items-center">
-                    <div class="col-xl-4 col-md-6">
-                        <div class="feature-item wow fadeInUp delay-0-2s">
-                            <div class="icon">
-                                <i class="flaticon flaticon-art"></i>
-                            </div>
-                            <div class="feature-content">
-                                <h5>Data Center</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-                                <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6">
-                        <div class="feature-item wow fadeInUp delay-0-4s">
-                            <div class="icon">
-                                <i class="flaticon flaticon-cloud-computing-1"></i>
-                            </div>
-                            <div class="feature-content">
-                                <h5>Cloud Services</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-                                <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6">
-                        <div class="feature-item wow fadeInUp delay-0-6s">
-                            <div class="icon">
-                                <i class="flaticon flaticon-development-3"></i>
-                            </div>
-                            <div class="feature-content">
-                                <h5>Web Development</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-                                <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6">
-                        <div class="feature-item wow fadeInUp delay-0-8s">
-                            <div class="icon">
-                                <i class="flaticon flaticon-analysis-1"></i>
-                            </div>
-                            <div class="feature-content">
-                                <h5>IT Management</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-                                <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6">
-                        <div class="feature-item wow fadeInUp delay-1-0s">
-                            <div class="icon">
-                                <i class="flaticon flaticon-web-development"></i>
-                            </div>
-                            <div class="feature-content">
-                                <h5>Software Development</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-                                <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6">
-                        <div class="feature-item wow fadeInUp delay-1-2s">
-                            <div class="icon">
-                                <i class="flaticon flaticon-plan"></i>
-                            </div>
-                            <div class="feature-content">
-                                <h5>Machine Learning</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
-                                <a href="service-details.html" class="learn-more">Read More <i class="fas fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="feature-btn text-center mt-20">
-                    <a href="services.html" class="theme-btn">view all services</a>
-                </div>
-            </div>
-        </section>
-        <!-- Featured Section End -->
-        
-        
-        <!-- Wrok Progress Start -->
-        <section class="work-progress-area bgs-cover py-120 rpy-100" style="background-image: url(assets/images/background/work-progress.jpg);">
-            <div class="container">
-                <div class="work-progress-inner bg-blue text-white br-5 py-85 px-75">
-                    <div class="section-title-with-btn mb-10">
-                        <div class="section-title">
-                            <span class="sub-title">How We Do</span>
-                            <h2>Custom IT Solutions <br>for Your Business</h2>
-                        </div>
-                        <a href="contact.html" class="theme-btn style-two mt-15">meet with us</a>
-                    </div>
-                    <div class="row justify-content-between">
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="work-progress-item wow fadeInUp delay-0-2s">
-                                <div class="icon">
-                                    <i class="flaticon flaticon-speech-bubble"></i>
-                                    <span class="progress-step">1</span>
-                                </div>
-                                <h3>Advertising and Marketing</h3>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="work-progress-item wow fadeInUp delay-0-4s">
-                                <div class="icon">
-                                    <i class="flaticon flaticon-vector"></i>
-                                    <span class="progress-step">2</span>
-                                </div>
-                                <h3>Web Development</h3>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="work-progress-item wow fadeInUp delay-0-6s">
-                                <div class="icon">
-                                    <i class="flaticon flaticon-like-1"></i>
-                                    <span class="progress-step">3</span>
-                                </div>
-                                <h3>Mobile App Development</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Wrok Progress End -->
-        
-        
         <!-- Pricing Section Start -->
-        <section class="pricing-section pt-115 rpt-95 pb-90 rpb-70">
+        <br><section class="pricing-section pt-115 rpt-95 pb-90 rpb-70" style="background-image: url(assets/images/feature/feature-bg.jpg);">
             <div class="container">
-                <div class="section-title text-center mb-35">
-                    <span class="sub-title">Pricing Packages</span>
-                    <h2>Choose Your Best Plan</h2>
+                <div class="section-title text-center mb-35"><br>
+                    <h2>Nuestros Planes</h2>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-sm-6">
@@ -396,29 +216,3 @@
         <!-- Pricing Section End -->
                    
         <?php include ("footer.php"); ?>
-    </div>
-    <!--End pagewrapper-->
-   
-    <!-- Scroll Top Button -->
-    <button class="scroll-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></button>
-    
-
-    <!--====== Jquery ======-->
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
-    <!--====== Bootstrap ======-->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <!--====== Appear Js ======-->
-    <script src="assets/js/appear.min.js"></script>
-    <!--====== Slick ======-->
-    <script src="assets/js/slick.min.js"></script>
-    <!--====== Magnific Popup ======-->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!--====== Isotope ======-->
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <!--  WOW Animation -->
-    <script src="assets/js/wow.js"></script>
-    <!-- Custom script -->
-    <script src="assets/js/script.js"></script>
-
-</body>
-</html>
