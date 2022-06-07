@@ -31,7 +31,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="footer-widget about-widget">
                                 <div class="footer-logo mb-35">
-                                    <a href="index.php"><img src="assets/images/logos/logo.png" alt="Logo"></a>
+                                    <a href="index.php"><img src="assets/images/logos/logo_web.png" alt="Logo"></a>
                                 </div>
                                 <div class="text">
                                 Desarrollamos softwares y sitios webs a hechos a la medida haciendo uso de las mas novedosas tecnologías y lenguajes de programación que existen en el mercado
