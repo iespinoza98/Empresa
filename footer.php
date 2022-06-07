@@ -65,7 +65,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6">
-                            <iframe name="f1b41b7b10c63e" width="100%" height="100%" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v6.0/plugins/page.php?adapt_container_width=true&amp;app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df396d462116c72%26domain%3Dfaststoreperu.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Ffaststoreperu.com%252Ff21feb498352ecc%26relation%3Dparent.parent&amp;container_width=443&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2FFASTORE17&amp;locale=es_ES&amp;sdk=joey&amp;show_facepile=true&amp;small_header=false&amp;tabs=timeline&amp;width=" style="border: none; visibility: visible; width: 100%; height: 100%;" class=""></iframe>
+                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F20IP22%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=278935152755075" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" style="border: none; visibility: visible; width: 100%; height: 100%;"></iframe>
                         </div>
                     </div>
                 </div>
