@@ -64,8 +64,8 @@
                 <div class="container clearfix">
 
                     <div class="header-inner d-flex align-items-center">
-                        <div class="logo-outer">
-                            <div class="logo"><a href="index.php"><img src="assets/images/logos/logo.png" alt="Logo" title="Logo"></a></div>
+                        <div class="logo-outer" style="background:;width:40%">
+                            <div class="logo"><a href="index.php"><img src="assets/images/logos/logo.png" alt="Logo" title="Logo" style="width:35%"></a></div>
                         </div>
 
                         <div class="nav-outer clearfix d-flex align-items-center">
