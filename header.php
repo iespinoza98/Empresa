@@ -10,7 +10,8 @@
     <!--====== Title ======-->
     <title>Innovatec Proyecto || Diseño y Desarrollo de Páginas Web</title>
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="assets/images/logos/ico.png">
+
     <!--====== Google Fonts ======-->
     <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
