@@ -7,7 +7,7 @@
                        <div class="top-left">
                             <ul>
                                 <li>Llámanos: <a href="callto:51994236249">+51994236249</a></li>
-                                <li>Email: <a href="mailto:contacto@innovaproyect.com">contacto@innovaproyect.com</a></li>
+                                <li>Email: <a href="mailto:contacto@innovatecproyectos.com">contacto@innovatecproyectos.com</a></li>
                             </ul>
                        </div>
                        <div class="top-right">

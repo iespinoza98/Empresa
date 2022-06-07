@@ -86,12 +86,12 @@
                        <div class="contact-form ml-40 rml-0 rmt-55 wow fadeInRight delay-0-2s">
                            <h3 class="comment-title mb-35">Enviar un mensaje</h3>
                            <p>Comunícate con nosotros completando los siguientes datos para que un asesor se comunique contigo lo mas pronto posible.</p>
-                           <form id="comment-form" class="comment-form mt-35" name="comment-form" action="#" method="post">
+                           <form id="contact-form" class="comment-form mt-35" name="comment-form" action="#" method="post">
                                 <div class="row clearfix justify-content-center">
                                     <div class="col-sm-6">
                                         <div class="form-group">
-                                           <label for="full-name"><i class="far fa-user"></i></label>
-                                            <input type="text" id="full-name" name="full-name" class="form-control" value="" placeholder="Nombre Completo" required="">
+                                           <label for="name"><i class="far fa-user"></i></label>
+                                            <input type="text" id="name" name="name" class="form-control" value="" placeholder="Nombre Completo" required="">
                                         </div>
                                     </div>
                                     <div class="col-sm-6">
