@@ -53,19 +53,19 @@
             <div class="container">
                 <div class="logo-carousel-wrap style-two bg-white py-100 px-25 br-5">
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-1.png" alt="Client Logo"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-1.png" alt="Client Logo"style="width:80%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-2.png" alt="Client Logo"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-2.png" alt="Client Logo" style="width:80%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-3.png" alt="Client Logo"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-3.png" alt="Client Logo"style="width:80%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-4.png" alt="Client Logo"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-4.png" alt="Client Logo" style="width:60%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-5.png" alt="Client Logo"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-5.png" alt="Client Logo"style="width:170%"></a>
                     </div>
                     <div class="logo-item">
                         <a href="#"><img src="assets/images/client-logo/client-logo-1.png" alt="Client Logo"></a>
@@ -243,7 +243,7 @@
                            </div>
                        </div>
                        <div class="col-lg-5">
-                           <div class="contact-image-number style-two bgs-cover overlay wow fadeInRight delay-0-2s" style="background-image: url(assets/images/contact/home-two.jpg);">
+                           <div class="contact-image-number style-two bgs-cover overlay wow fadeInRight delay-0-2s" style="background-image: url(assets/images/contact/contactenos-1.png);">
                                <div class="contact-informations text-white">
                                     <h3>No dude en contactarnos</h3>
                                     <ul class="contact-info">
