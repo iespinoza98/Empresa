@@ -104,7 +104,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-image-shape rmb-70 wow fadeInLeft delay-0-2s">
-                            <img src="assets/images/about/about.png" alt="About">
+                            <img src="assets/images/about/about.jpg" alt="About" style="width:150%">
                         </div>
                     </div>
                     <div class="col-lg-6">
