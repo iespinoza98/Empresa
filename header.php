@@ -32,6 +32,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="assets/js/personalizados.js"></script>
     
+    <!-- SweetAlert script-->
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    
 </head>
 <body>
     <div class="page-wrapper">
@@ -50,7 +53,7 @@
                        <div class="top-left">
                             <ul>
                                 <li>Llámanos: <a href="callto:51994236249">+51994236249</a></li>
-                                <li>Email: <a href="mailto:contacto@innovatecproyectos.com">contacto@innovatecproyectos.com</a></li>
+                                <li>Email: <a href="mailto:contacto@innovatecproyecto.com">contacto@innovatecproyecto.com</a></li>
                             </ul>
                        </div>
                        <div class="top-right">

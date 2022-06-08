@@ -1,118 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="zxx">
-<head>
-    <!--====== Required meta tags ======-->
-    <meta charset="utf-8" />
-    <meta name="description" content="" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!--====== Title ======-->
-    <title>Innovatec Proyecto || Diseño y Desarrollo de Páginas Web</title>
-    <!--====== Favicon Icon ======-->
-    <link rel="icon" href="assets/images/logos/ico.png">
-
-    <!--====== Google Fonts ======-->
-    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    
-    <!--====== Font Awesome ======-->
-    <link rel="stylesheet" href="assets/css/font-awesome-5.9.0.css">
-    <!--====== Bootstrap ======-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!--====== Magnific Popup ======-->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <!--====== Falticon ======-->
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <!--====== Animate ======-->
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <!--====== Slick ======-->
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <!--====== Main Style ======-->
-    <link rel="stylesheet" href="assets/css/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="assets/js/personalizados.js"></script>
-    
-</head>
-<body>
-    <div class="page-wrapper">
-
-        <!-- Preloader -->
-        <div class="preloader">
-            <div class="theme-loader"></div>
-        </div>
-
-<!-- main header -->
-        <header class="main-header header-three text-white">
-
-           <div class="header-top-wrap bg-blue py-10">
-               <div class="container">
-                   <div class="header-top">
-                       <div class="top-left">
-                            <ul>
-                                <li>Llámanos: <a href="callto:51994236249">+51994236249</a></li>
-                                <li>Email: <a href="mailto:contacto@innovatecproyectos.com">contacto@innovatecproyectos.com</a></li>
-                            </ul>
-                       </div>
-                       <div class="top-right">
-                           <div class="office-time">
-                                <i class="far fa-clock"></i><span>08:00 am - 06:00 pm</span>
-                            </div>
-                       </div>
-                   </div>
-               </div>
-           </div>
-           
-            <!--Header-Upper-->
-            <div class="header-upper">
-                <div class="container clearfix">
-
-                    <div class="header-inner d-flex align-items-center">
-                        <div class="logo-outer" style="background:;width:40%">
-                            <div class="logo"><a href="index.php"><img src="assets/images/logos/logo_web.png" alt="Logo" title="Logo" style="width:35%"></a></div>
-                        </div>
-
-                        <div class="nav-outer clearfix d-flex align-items-center">
-                            <!-- Main Menu -->
-                            <nav class="main-menu navbar-expand-lg">
-                                <div class="navbar-header">
-                                   <div class="mobile-logo py-15">
-                                       <a href="index.php">
-                                            <img src="assets/images/logos/logo.png" alt="Logo" title="Logo">
-                                       </a>
-                                   </div>
-
-                                    <!-- Toggle Button -->
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                    </button>
-                                </div>
-
-                                <div class="navbar-collapse collapse clearfix">
-                                    <ul class="navigation clearfix">
-                                        <li><a href="index.php">Inicio</a></li>
-                                        <li><a href="nosotros.php">Quienes somos</a></li>
-                                        <li><a href="servicios.php">Servicios</a></li>
-                                        <li><a href="portafolio.php">Proyectos</a></li>
-                                        <li><a href="contacto.php">Contacto</a></li>
-                                    </ul>
-                                </div>
-
-                            </nav>
-                            <!-- Main Menu End-->
-
-                            <!-- Menu Button -->
-                            <div class="menu-btn">
-                                <a href="contacto.php" class="theme-btn">Contáctanos</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Header Upper-->
-        </header>
+<?php include ('header.php'); ?>
         
         <!-- Page Banner Start -->
         <section class="page-banner bgs-cover overlay pt-50" style="background-image: url(assets/images/contactenos.jpg);">
@@ -137,7 +24,7 @@
                <div class="contact-info-area mb-80">
                     <div class="contact-info-item wow fadeInUp delay-0-4s">
                        <i class="far fa-envelope"></i>
-                       <p><a href="mailto:contacto@innovaproyect.com">contacto@innovaproyect.com</a></p>
+                       <p><a href="mailto:contacto@innovatecproyecto.com">contacto@innovatecproyecto.com</a></p>
                     </div>
                     <div class="contact-info-item wow fadeInUp delay-0-2s">
                        <i class="far fa-map"></i>
@@ -159,24 +46,32 @@
                        <div class="contact-form ml-40 rml-0 rmt-55 wow fadeInRight delay-0-2s">
                            <h3 class="comment-title mb-35">Enviar un mensaje</h3>
                            <p>Comunícate con nosotros completando los siguientes datos para que un asesor se comunique contigo lo mas pronto posible.</p>
-                           <form id="contact-form" class="comment-form mt-35" name="comment-form" action="#" method="post">
+                           <form id="contact-form" class="comment-form mt-35" name="contact-form">
                                 <div class="row clearfix justify-content-center">
                                     <div class="col-sm-6">
                                         <div class="form-group">
                                            <label for="name"><i class="far fa-user"></i></label>
-                                            <input type="text" id="name" name="name" class="form-control" value="" placeholder="Nombre Completo" required="">
+                                            <input type="text" id="nombre" name="nombre" class="form-control" value="" placeholder="Nombre Completo" required="">
+                                        </div>
+                                        <div class="form-group">
+                                           <label for="name"><i class="fa fa-phone"></i></label>
+                                            <input type="text" id="celular" name="celular" class="form-control" value="" placeholder="Celular" required="">
                                         </div>
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="form-group">
-                                           <label for="email"><i class="far fa-envelope"></i></label>
+                                           <label for="apellido"><i class="far fa-user"></i></label>
+                                            <input type="text" id="apellido" name="apellido" class="form-control" value="" placeholder="Apellido" required="">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="email"><i class="far fa-envelope"></i></label>
                                             <input type="email" id="email" name="email" class="form-control" value="" placeholder="Correo Electrónico" required="">
                                         </div>
                                     </div>
                                     <div class="col-sm-12">
                                         <div class="form-group">
                                            <label for="comments"><i class="fas fa-pencil-alt"></i></label>
-                                            <textarea name="comments" id="comments" class="form-control" rows="4" placeholder="Escribe tu mensaje" required=""></textarea>
+                                            <textarea name="mensaje" id="mensaje" class="form-control" rows="4" placeholder="Escribe tu mensaje" required=""></textarea>
                                         </div>
                                     </div>
                                     <div class="col-sm-12">

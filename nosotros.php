@@ -219,17 +219,6 @@
                                                 <input type="email" id="email" name="email" class="form-control" placeholder="Email" required>
                                             </div>
                                         </div>
-                                        <!-- <div class="col-sm-6">
-                                            <div class="form-group">
-                                               <label for="service">Service Required</label>
-                                                <select id="service" name="service">
-                                                    <option value="default" selected>Service</option>
-                                                    <option value="about">About</option>
-                                                    <option value="contact">Contact</option>
-                                                    <option value="team">Team</option>
-                                                </select>
-                                            </div>
-                                        </div> -->
                                         <div class="col-sm-12">
                                             <div class="form-group">
                                                 <textarea name="mensaje" id="comments" class="form-control" rows="4" placeholder="Háganos saber lo que necesita." required></textarea>

@@ -57,10 +57,10 @@
                             <div class="footer-widget link-widget ml-20 rml-0">
                                 <h4 class="footer-title">Nuestros servicios</h4>
                                 <ul class="list-style-two">
-                                    <li><a href="#">Páginas web</a></li>
-                                    <li><a href="#">Diseño de APPs</a></li>
-                                    <li><a href="#">Tienda virtuales</a></li>
-                                    <li><a href="#">Sistemas web</a></li>
+                                    <li><a>Páginas web</a></li>
+                                    <li><a>Diseño de APPs</a></li>
+                                    <li><a>Tienda virtuales</a></li>
+                                    <li><a>Sistemas web</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -105,6 +105,8 @@
     <script src="assets/js/wow.js"></script>
     <!-- Custom script -->
     <script src="assets/js/script.js"></script>
+    <!-- Funciones del servidor -->
+    <script src="assets/js/funcionesServer.js"></script>
 
 </body>
 </html>
