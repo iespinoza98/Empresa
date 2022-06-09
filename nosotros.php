@@ -92,7 +92,7 @@
                                     <i class="flaticon flaticon-speech-bubble"></i>
                                 </div>
                                 <h3>Páginas Web</h3>
-                                <p>Nos especializamos en el diseño de sitios web manejables, por lo que tiene el control de su sitio, conoce su negocio, por lo que debe administrarlo.</p>
+                                <p>Nos especializamos en el diseño de sitios web administrables para la facilidad del cliente.</p>
                                 <a href="servicios.php" class="learn-more">Leer mas <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -103,7 +103,7 @@
                                     <i class="flaticon flaticon-vector"></i>
                                 </div>
                                 <h3>Tiendas Online</h3>
-                                <p>Nos encargamos de ofrecerle una interfaz comercial para facilitar las ventas de tus productos.</p>
+                                <p>Te ofrecemos una interfaz comercial para facilitar las ventas de tus productos.</p>
                                 <a href="servicios.php" class="learn-more">Leer mas <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
