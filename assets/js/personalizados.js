@@ -14,7 +14,7 @@ function addElements (sName) {
             caracteristicas: ["Buena usabilidad y organización", " Contenido de calidad", "Responsiva", "Diseño adaptado al estilo corporativo"],
             subtitulo: "La importancia de contar con una página web",
             parrafo: "Cuando una organización tiene un sitio web, aumenta la reputación de la organización y permite que los clientes aumenten su  confianza en el producto o servicio que ofrece la organización. Los sitios web ayudan a aumentar las ventas, la productividad y el valor de mercado de cualquier PYME",
-            imagen: "assets/images/services/service-details.jpg"
+            imagen: "assets/images/services/servicio1.jpg"
         },
         "sTienda": {
             titulo: "Tiendas Online",
@@ -22,7 +22,7 @@ function addElements (sName) {
             caracteristicas: ["Diseño Responsive", "Pasarelas de Pago", "Análisis y Reportes", "Complementos Especializados"],
             subtitulo: "Síntesis para el diseño de tiendas",
             parrafo: "En la actualidad existen diversas platformas(CMS) que permiten el diseño de tiendas virtuales con mayor rapidez. Para ello adaptamos un diseño exclusivo y estructura integrando todas las funcionalidades y plugins necesarios",
-            imagen: "assets/images/services/service-details.jpg"
+            imagen: "assets/images/services/servicio2.jpg"
         },
         "sSistemas": {
             titulo: "Sistemas Web",
@@ -30,7 +30,7 @@ function addElements (sName) {
             caracteristicas: ["Ahorran costes de hardware y software.", "Fáciles de usar", "Facilitan el trabajo colaborativo y a distancia", "Escalables y de rápida actualización"],
             subtitulo: "Será más eficiente; podrá ganar más y gastará menos.",
             parrafo: "Utilice aplicaciones web para ahorrar dinero. Aprovechará mejor su tiempo porque no tiene que preocuparse por aprender nuevos programas, mantenerlos o hacer copias de seguridad de sus datos, y puede trabajar desde cualquier lugar.",
-            imagen: "assets/images/services/service-details.jpg"
+            imagen: "assets/images/services/servicio3.jpg"
         }
     };
 
