@@ -53,34 +53,34 @@
             <div class="container">
                 <div class="logo-carousel-wrap style-two bg-white py-100 px-25 br-5">
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-1.png" alt="Client Logo"style="width:80%"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-1.jpg" alt="Client Logo"style="width:80%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-2.png" alt="Client Logo" style="width:80%"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-2.png" alt="Client Logo" style="width:70%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-3.png" alt="Client Logo"style="width:80%"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-3.png" alt="Client Logo"style="width:77%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-4.png" alt="Client Logo" style="width:60%"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-4.png" alt="Client Logo" style="width:50%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-5.png" alt="Client Logo"style="width:170%"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-5.png" alt="Client Logo"style="width:60%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-1.png" alt="Client Logo"></a>
+                    <a href="#"><img src="assets/images/client-logo/client-logo-1.jpg" alt="Client Logo"style="width:80%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-2.png" alt="Client Logo"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-2.png" alt="Client Logo" style="width:70%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-3.png" alt="Client Logo"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-3.png" alt="Client Logo" style="width:77%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-4.png" alt="Client Logo"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-4.png" alt="Client Logo" style="width:50%"></a>
                     </div>
                     <div class="logo-item">
-                        <a href="#"><img src="assets/images/client-logo/client-logo-5.png" alt="Client Logo"></a>
+                        <a href="#"><img src="assets/images/client-logo/client-logo-5.png" alt="Client Logo" style="width:65%"></a>
                     </div>
                 </div>
                 <div class="work-progress-inner-three">
