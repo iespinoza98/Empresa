@@ -1,6 +1,5 @@
 <?php include ('header.php'); ?>
 
-
         
         <!-- Page Banner Start -->
         <section class="page-banner bgs-cover overlay pt-50" style="background-image: url(assets/images/banner2.jpg);">

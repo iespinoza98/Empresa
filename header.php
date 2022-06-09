@@ -97,7 +97,7 @@
                                         <li><a href="index.php">Inicio</a></li>
                                         <li><a href="nosotros.php">Quienes somos</a></li>
                                         <li><a href="servicios.php">Servicios</a></li>
-                                        <li><a href="portafolio.php">Proyectos</a></li>
+                                        <!--<li><a href="portafolio.php">Proyectos</a></li>-->
                                         <li><a href="contacto.php">Contacto</a></li>
                                     </ul>
                                 </div>

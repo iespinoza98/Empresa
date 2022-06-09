@@ -123,66 +123,8 @@
             </div>
         </section>
         <!-- Wrok Progress End -->
-        
-        
-        <!-- Testimonial Section Start -->
-        <!-- <section class="testimonial-section bg-lighter pt-115 rpt-95 pb-120 rpb-100">
-            <div class="container">
-                <div class="section-title text-center mb-65">
-                    <span class="sub-title">It Support For Business</span>
-                    <h2>Nuestra estrategia es ser parte del crecimiento de IT<br>Con los siguientes objetivos.</h2>
-                </div>
-                <div class="testimonial-wrap">
-                    <div class="testimonial-item wow fadeInLeft delay-0-2s">
-                        <div class="author-description">
-                            <img src="assets/images/testimonials/testi-author-1.jpg" alt="Author">
-                            <div class="designation">
-                                <h5>Rodney J. Sabo</h5>
-                                <span>Design Lead</span>
-                            </div>
-                            <i class="fas fa-quote-right"></i>
-                        </div>
-                        <p>Tomando la innovación constante como nuestra clave para lograr nuestro objetivo final de éxito y así convertirnos en una empresa global al brindar servicios y soluciones superiores.</p>
-                    </div>
-                    <div class="testimonial-item wow fadeInRight delay-0-2s">
-                        <div class="author-description">
-                            <img src="assets/images/testimonials/testi-author-2.jpg" alt="Author">
-                            <div class="designation">
-                                <h5>Rodney J. Sabo</h5>
-                                <span>Design Lead</span>
-                            </div>
-                            <i class="fas fa-quote-right"></i>
-                        </div>
-                        <p>Cumplir con los requisitos del cliente para hacer crecer su negocio; proporcionarles las mejores soluciones informáticas. Nuestra recompensa: LA SATISFACCIÓN DEL CLIENTE</p>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="author-description">
-                            <img src="assets/images/testimonials/testi-author-1.jpg" alt="Author">
-                            <div class="designation">
-                                <h5>Rodney J. Sabo</h5>
-                                <span>Design Lead</span>
-                            </div>
-                            <i class="fas fa-quote-right"></i>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="author-description">
-                            <img src="assets/images/testimonials/testi-author-2.jpg" alt="Author">
-                            <div class="designation">
-                                <h5>Rodney J. Sabo</h5>
-                                <span>Design Lead</span>
-                            </div>
-                            <i class="fas fa-quote-right"></i>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-        <!-- Testimonial Section End -->
-    
-        
+                
+
         <!-- Contact Area Start -->
         <section class="contact-four py-120 rpy-100">
             <div class="container">
