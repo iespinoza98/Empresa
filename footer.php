@@ -77,7 +77,7 @@
                             <a href="https://www.facebook.com/20IP22"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                         </div>
-                        <p>Copyright 2022 Innovatec Todos los derechos reservados.</p>
+                        <p>Copyright 2022 Innovatec Proyectos - Todos los derechos reservados.</p>
                     </div>
                 </div>
             </div>

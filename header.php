@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title>Innovatec Proyecto || Diseño y Desarrollo de Páginas Web</title>
+    <title>Innovatec Proyectos || Diseño y Desarrollo de Páginas Web</title>
     <!--====== Favicon Icon ======-->
     <link rel="icon" href="assets/images/logos/ico.png">
 

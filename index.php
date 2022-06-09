@@ -10,7 +10,7 @@
                            <span class="sub-title d-block wow fadeInUp delay-0-2s">Innovatec Proyectos</span>
                             <h1 class="wow fadeInUp delay-0-4s mt-20">Diseño y Desarrollo de Páginas Web</h1>
                             <div class="hero-btn mt-35 wow fadeInUp delay-0-6s">
-                                <a href="contact.html" class="theme-btn">Contáctanos</a>
+                                <a href="contacto.php" class="theme-btn">Contáctanos</a>
                             </div>
                         </div>
                     </div>
@@ -32,7 +32,7 @@
                                 </div>
                                 <h6>Páginas web adaptativas</h6>
                                 <p>Una página debe adaptarse de manera automática, lógica y ordenada a cualquier dispositivo</p>
-                                <a class="btn-circle" href="service-details.html"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                <a class="btn-circle" href="servicios.php"><i class="fas fa-long-arrow-alt-right"></i></a>
                             </div>
                             <div class="service-hover bg-blue text-white">
                                 <h3>Adaptación a dispositivos</h3>
@@ -49,7 +49,7 @@
                                 </div>
                                 <h6>SEO</h6>
                                 <p> Una buena estrategia de optimización SEO es la clave para obtener tráfico orgánico de calidad</p>
-                                <a class="btn-circle" href="service-details.html"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                <a class="btn-circle" href="servicios.php"><i class="fas fa-long-arrow-alt-right"></i></a>
                             </div>
                             <div class="service-hover bg-blue text-white">
                                 <h3>Optimización SEO</h3>
@@ -66,7 +66,7 @@
                                 </div>
                                 <h6>Fácil navegación</h6>
                                 <p>Una buena usabilidad puede mejorar el rendimiento de su página web y aumentar sus ventas</p>
-                                <a class="btn-circle" href="service-details.html"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                <a class="btn-circle" href="servicios.php"><i class="fas fa-long-arrow-alt-right"></i></a>
                             </div>
                             <div class="service-hover bg-blue text-white">
                                 <h3>Buena usabilidad y organización</h3>
@@ -83,7 +83,7 @@
                                 </div>
                                 <h6>Seguridad robusta</h6>
                                 <p>Una buena seguridad protege el contenido, así como la privacidad de tus visitantes</p>
-                                <a class="btn-circle" href="service-details.html"><i class="fas fa-long-arrow-alt-right"></i></a>
+                                <a class="btn-circle" href="servicios.php"><i class="fas fa-long-arrow-alt-right"></i></a>
                             </div>
                             <div class="service-hover bg-blue text-white">
                                 <h3>Web segura</h3>
@@ -174,7 +174,7 @@
                             </div>
                             <div class="feature-content">
                                 <h5>Páginas Web</h5>
-                                <p>Nos especializamos en el diseño de sitios web manejables, por lo que tiene el control de su sitio, conoce su negocio, por lo que debe administrarlo.</p>
+                                <p>Nos especializamos en el diseño de sitios webs administrables para el facil uso del cliente.</p>
                                 <a href="servicios.php" class="learn-more">Ver mas <i class="fas fa-arrow-right"></i></a>
                             </div>
                         </div>
