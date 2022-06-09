@@ -23,7 +23,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-three-image rmb-60 mr-10 rmr-0 wow fadeInLeft delay-0-2s">
-                            <img src="assets/images/about/about-three-1.jpg" alt="About">
+                            <img src="assets/images/about/about-three-1.png" alt="About">
                             <img src="assets/images/about/about-three-2.jpg" alt="About">
                         </div>
                     </div>
