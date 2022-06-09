@@ -22,9 +22,8 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="about-three-image rmb-60 mr-10 rmr-0 wow fadeInLeft delay-0-2s">
-                            <img src="assets/images/about/about-three-1.png" alt="About">
-                            <img src="assets/images/about/about-three-2.jpg" alt="About">
+                        <div class="rmb-60 mr-10 rmr-0 wow fadeInLeft delay-0-2s">
+                            <img src="https://www.socialmercaz.com/wp-content/uploads/2016/10/dise%C3%B1o-web-site.gif" alt="About">
                         </div>
                     </div>
                     <div class="col-lg-6">
