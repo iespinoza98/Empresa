@@ -22,18 +22,17 @@
         <section class="contact-page py-120 rpy-100">
             <div class="container">
                <div class="contact-info-area mb-80">
-                    <div class="contact-info-item wow fadeInUp delay-0-4s">
-                       <i class="far fa-envelope"></i>
-                       <p><a href="mailto:contacto@innovatecproyecto.com">contacto@innovatecproyecto.com</a></p>
-                    </div>
                     <div class="contact-info-item wow fadeInUp delay-0-2s">
                        <i class="far fa-map"></i>
                        <p>Av La Encalada, Santiago de Surco, Lima 15023, Perú</p>
                     </div>
-                   
+                    <div class="contact-info-item wow fadeInUp delay-0-4s">
+                       <i class="far fa-envelope"></i>
+                       <p><a href="mailto:contacto@innovatecproyecto.com">contacto@innovatecproyecto.com</a></p>
+                    </div>
                     <div class="contact-info-item wow fadeInUp delay-0-6s">
                        <i class="fas fa-phone-alt"></i><br>
-                       <p><a href="https://api.whatsapp.com/send?phone=51994236249" target="_blank">+51 994236249</a></p>
+                       <p><a href="https://api.whatsapp.com/send?phone=51928986980" target="_blank">+51 928986980</a></p>
                     </div>
                </div>
                <div class="row">

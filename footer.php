@@ -7,7 +7,7 @@
                             <i class="fas fa-phone-alt"></i>
                             <div class="content">
                                 <span>Llámanos</span>
-                                <h5><a href="callto:+51994236249">+51 994236249</a></h5>
+                                <h5><a href="callto:+51928986980">+51 928986980</a></h5>
                             </div>
                         </li>
                         <li>
@@ -65,7 +65,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6">
-                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F20IP22%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=278935152755075" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" style="border: none; visibility: visible; width: 100%; height: 100%;"></iframe>
+                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F20IP22%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=278935152755075" width="315" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" style="border: none; visibility: visible; width: 100%; height: 100%;"></iframe>
                         </div>
                     </div>
                 </div>
@@ -76,6 +76,7 @@
                         <div class="social-style-one mb-10">
                             <a href="https://www.facebook.com/20IP22"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=51928986980" target="_blank"><i class="fab fa-whatsapp"></i></a>
                         </div>
                         <p>Copyright 2022 Innovatec Proyectos - Todos los derechos reservados.</p>
                     </div>

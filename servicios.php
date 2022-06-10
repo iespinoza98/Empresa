@@ -28,7 +28,7 @@
                                <ul>
                                    <li name="dservicio" class="active"><a name="sDesarrollo" onclick="viewDetail(this)">Páginas Web</a></li>
                                    <li name="dservicio"><a name="sTienda" onclick="viewDetail(this)">Tiendas Online</a></li>
-                                   <!-- <li name="dservicio"><a name="sApps" onclick="viewDetail(this)">Desarrollo de Apps</a></li> -->
+                                   <li name="dservicio"><a name="sFacElectronica" onclick="viewDetail(this)">Facturación Electrónica</a></li>
                                    <li name="dservicio"><a name="sSistemas" onclick="viewDetail(this)">Sistemas Web</a></li>
                                 </ul>
                            </div>
@@ -40,7 +40,7 @@
                                             <i class="fas fa-phone-alt"></i>
                                             <div class="content">
                                                 <span>Llamanos</span>
-                                                <h5><a href="callto:+012-345-6789">+51994236249</a></h5>
+                                                <h5><a href="callto:+51928986980">+51 928986980</a></h5>
                                             </div>
                                         </li>
                                         <li>

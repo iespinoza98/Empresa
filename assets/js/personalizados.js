@@ -26,11 +26,19 @@ function addElements (sName) {
         },
         "sSistemas": {
             titulo: "Sistemas Web",
-            descripcion: "Un sistema web personalizado le ahorrará costes, tiempo y recursos humanos. Como tal, las ganancias de su negocio aumentarán y administrará mejor a sus clientes, proveedores, distribuidores y más.",
+            descripcion: "Un sistema web personalizado le ahorrará costos, tiempo y recursos humanos. Como tal, las ganancias de su negocio aumentarán y administrará mejor a sus clientes, proveedores, distribuidores y más.",
             caracteristicas: ["Ahorran costes de hardware y software.", "Fáciles de usar", "Facilitan el trabajo colaborativo y a distancia", "Escalables y de rápida actualización"],
             subtitulo: "Será más eficiente; podrá ganar más y gastará menos.",
             parrafo: "Utilice aplicaciones web para ahorrar dinero. Aprovechará mejor su tiempo porque no tiene que preocuparse por aprender nuevos programas, mantenerlos o hacer copias de seguridad de sus datos, y puede trabajar desde cualquier lugar.",
             imagen: "assets/images/services/servicio3.jpg"
+        },
+        "sFacElectronica": {
+            titulo: "Facturación Electrónica",
+            descripcion: "El sistema de facturación electrónica es el proceso de enviar facturas, estados de cuenta, recibos o cartas de reclamación a través de medios electrónicos.",
+            caracteristicas: ["Formalidad y seguridad", "Ecoamigable", "Reduce costos", "Genera un mayor control documental"],
+            subtitulo: "Puede generar grandes ventajas para el desempeño de sus negocios",
+            parrafo: "Podrás gestionar de forma eficiente y segura tus facturas electrónicas a través de una herramienta desarrollada con una innovadora tecnología de integración de datos.",
+            imagen: "assets/images/services/servicio4.jpg"
         }
     };
 

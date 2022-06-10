@@ -181,7 +181,7 @@
                                             <i class="fas fa-phone-alt"></i>
                                             <div class="content">
                                                 <span>Llámenos</span>
-                                                <h5><a href="callto:+51994236249">+51 994236249</a></h5>
+                                                <h5><a href="callto:+51928986980">+51 928986980</a></h5>
                                             </div>
                                         </li>
                                         <li>

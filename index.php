@@ -115,10 +115,10 @@
                             </div>
                             <p>Sabemos que el mercado cada vez se hace más competitivo, por ello nuestros profesionales están capacitados en brindar una solución digital y efectiva.</p>
                             <ul class="list-style-one mt-15">
-                                <li>Desarrollo Web</li>
+                                <li>Páginas Web</li>
                                 <li>Tiendas Virtuales</li>
-                                <li>Sistemas Webs</li>
-                                <li>Desarrollo de Apps</li>
+                                <li>Sistemas Web</li>
+                                <li>Facturación Electrónica</li>
                             </ul>
                         </div>
                     </div>
@@ -128,13 +128,13 @@
                     <div class="row">
                         <div class="col-lg-3 col-sm-6">
                             <div class="success-item wow fadeInUp delay-0-2s">
-                                <span class="count-text" data-speed="5000" data-stop="100">0</span>
+                                <span class="count-text" data-speed="5000" data-stop="5">0</span>
                                 <p>Proyectos</p>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="success-item wow fadeInUp delay-0-4s">
-                                <span class="count-text plus" data-speed="5000" data-stop="20">0</span>
+                                <span class="count-text plus" data-speed="5000" data-stop="6">0</span>
                                 <p>Herrmientas</p>
                             </div>
                         </div>
@@ -146,7 +146,7 @@
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="success-item wow fadeInUp delay-0-8s">
-                                <span class="count-text plus" data-speed="5000" data-stop="100">0</span>
+                                <span class="count-text plus" data-speed="5000" data-stop="20">0</span>
                                 <p>Clientes</p>
                             </div>
                         </div>
