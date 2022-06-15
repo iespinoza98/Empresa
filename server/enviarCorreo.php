@@ -13,13 +13,12 @@ require 'Phpmailer/SMTP.php';
 $mail = new PHPMailer(true);                                    //Create an instance; passing `true` enables exceptions
 
 try {
-    //Server settings
-    $mail->SMTPDebug = 0;                                       //Enable verbose debug output
+    //Server settings                                   //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
     $mail->Host       = 'smtp.zoho.com';          //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
     $mail->Username   = 'israel@innovatecproyectos.com';      //SMTP username
-    $mail->Password   = 'Cliente2022@';                       //SMTP password
+    $mail->Password   = 'Allegro.2018@';                       //SMTP password
     $mail->SMTPSecure = 'ssl';                                  //Enable implicit TLS encryption, 'ssl' also accepted
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
@@ -43,8 +42,12 @@ try {
         $email = $_POST['email'];
 
         //Recipients
-        $mail->setFrom('contacto@innovatecproyectos.com', $namecomplete);
-        $mail->addAddress('contacto@innovatecproyectos.com');         //Add a recipient
+        // $mail->setFrom('contacto@innovatecproyectos.com', $namecomplete);
+        // $mail->addAddress('contacto@innovatecproyectos.com');         //Add a recipient
+
+        $mail->From = "israelespinoza1298@gmail.com";
+        $mail->FromName = "Innovatec Proyectos";	 // name is optional
+        $mail->AddAddress('israelespinoza1298@gmail.com');
 
         //Content
         $mail->isHTML(true);                                        //Set email format to HTML
