@@ -65,7 +65,7 @@
                     <div class="col-lg-8">
                         <div id="contentsService" class="service-details-content wow fadeInRight delay-0-2s">
                             <div class="image mb-40">
-                                <img src="assets/images/services/servicio1.jpg" alt="Service Details">
+                                <img src="assets/images/services/pagina_web.jpg" alt="Service Details">
                             </div>
                             <h2>Desarrollo de Páginas Web</h2>
                             <p>Las empresas de hoy necesitan aprovechar al máximo Internet. Por lo tanto, tienen que desarrollar aplicaciones o sitios web donde puedan entregar sus productos o automatizar procesos comerciales.</p>

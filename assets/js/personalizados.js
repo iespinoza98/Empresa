@@ -22,7 +22,7 @@ function addElements (sName) {
             caracteristicas: ["Diseño Responsive", "Pasarelas de Pago", "Análisis y Reportes", "Complementos Especializados"],
             subtitulo: "Síntesis para el diseño de tiendas",
             parrafo: "En la actualidad existen diversas platformas(CMS) que permiten el diseño de tiendas virtuales con mayor rapidez. Para ello adaptamos un diseño exclusivo y estructura integrando todas las funcionalidades y plugins necesarios",
-            imagen: "assets/images/services/servicio2.jpg"
+            imagen: "assets/images/services/ecommerce.jpg"
         },
         "sSistemas": {
             titulo: "Sistemas Web",
@@ -30,7 +30,7 @@ function addElements (sName) {
             caracteristicas: ["Ahorran costes de hardware y software.", "Fáciles de usar", "Facilitan el trabajo colaborativo y a distancia", "Escalables y de rápida actualización"],
             subtitulo: "Será más eficiente; podrá ganar más y gastará menos.",
             parrafo: "Utilice aplicaciones web para ahorrar dinero. Aprovechará mejor su tiempo porque no tiene que preocuparse por aprender nuevos programas, mantenerlos o hacer copias de seguridad de sus datos, y puede trabajar desde cualquier lugar.",
-            imagen: "assets/images/services/servicio3.jpg"
+            imagen: "assets/images/services/sistema_web.jpg"
         },
         "sFacElectronica": {
             titulo: "Facturación Electrónica",
@@ -38,7 +38,7 @@ function addElements (sName) {
             caracteristicas: ["Formalidad y seguridad", "Ecoamigable", "Reduce costos", "Genera un mayor control documental"],
             subtitulo: "Puede generar grandes ventajas para el desempeño de sus negocios",
             parrafo: "Podrás gestionar de forma eficiente y segura tus facturas electrónicas a través de una herramienta desarrollada con una innovadora tecnología de integración de datos.",
-            imagen: "assets/images/services/servicio4.jpg"
+            imagen: "assets/images/services/facruacion.jpg"
         }
     };
 
