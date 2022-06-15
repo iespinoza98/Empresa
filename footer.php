@@ -33,12 +33,12 @@
                                 <div class="footer-logo mb-35">
                                     <a href="index.php"><img src="assets/images/logos/logo_web.png" alt="Logo"></a>
                                 </div>
-                                <div class="text">
+                                <div class="text" style="text-align: justify;">
                                 Desarrollamos softwares y sitios webs a hechos a la medida haciendo uso de las mas novedosas tecnologías y lenguajes de programación que existen en el mercado
                                 </div>
-                                <ul class="contact-info mt-20">
+                                <!--<ul class="contact-info mt-20">
                                     <li><i class="fas fa-map-marker-alt"></i><span>15023 Peru Lima <br>Av La Encalada, 15023</span></li>
-                                </ul>
+                                </ul>-->
                             </div>
                         </div>
                         <div class="col-lg-2 col-6">
@@ -84,8 +84,50 @@
             <!--End pagewrapper-->
    
     <!-- Scroll Top Button -->
-    <button class="scroll-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></button>
-    
+    <!--<button class="scroll-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></button>-->
+    <div class="whatsapp" id="wa_btn">
+      <div class="whatsapp_txt"><strong>Hola!!</strong> ¿En que podemos ayudarte?</div>
+      <div class="whatsapp_icon"></div>
+    </div>
+    <div class="chat_box" id="wa_chat">
+      <div class="chat_header">
+        <div class="chat_titulo">Cotiza ahora!!</div>
+        <div class="chat_msj">Hay un personal disponible!! haga click para empezar la conversación.</div>
+      </div>
+      <div class="chat_body">
+        <div class="sub_msj">Te respondemos a la brevedad posible.</div>
+      <div class="chat_list">
+       <div class="chat_item">
+        <a class="miembro online" target="_blank" href="https://api.whatsapp.com/send?phone=51928986980&amp;text=Hola! He visitado su web y tengo una consulta">
+         <div class="avatar">
+          <div class="avatar_img" style="background: url(assets/images/logos/favicon.png) center center no-repeat; background-size: cover;"></div>
+          </div>
+      <div class="miembro_info">
+       <div class="nombre">Innovatec Proyectos</div>
+       <div class="labor">Atención al Cliente</div>
+       <div class="estado">En Linea ahora mismo</div>
+      </div>
+       </a>
+     </div>
+     
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', ()=>{
+        let btn = document.getElementById('wa_btn');
+        let chat= document.getElementById('wa_chat');
+
+        btn.addEventListener('click', ()=>{
+          chat.classList.toggle('fade_left')
+          chat.classList.toggle('activo')
+          chat.classList.toggle('fade_in')
+          btn.classList.toggle('activo')
+        })
+      })
+    </script>
+
     <!-- Messenger Chat Plugin Code -->
     <div id="fb-root"></div>
 

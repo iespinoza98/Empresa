@@ -100,7 +100,7 @@
                                 <div class="navbar-header">
                                    <div class="mobile-logo py-15">
                                        <a href="index.php">
-                                            <img src="assets/images/logos/logo.png" alt="Logo" title="Logo">
+                                            <img src="assets/images/logos/logo_web.png" alt="Logo" title="Logo">
                                        </a>
                                    </div>
 
