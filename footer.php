@@ -47,8 +47,7 @@
                                 <ul class="list-style-two">
                                     <li><a href="index.php">Inicio</a></li>
                                     <li><a href="nosotros.php">Quienes somos</a></li>
-                                    <li><a href="servicios.php">Servicios</a></li>
-                                    <!--<li><a href="portafolio.php">Portafolio</a></li>-->
+                                    <li><a href="servicios.php">Servicios</a></li>                            
                                     <li><a href="contacto.php">Contacto</a></li>
                                 </ul>
                             </div>
@@ -57,10 +56,9 @@
                             <div class="footer-widget link-widget ml-20 rml-0">
                                 <h4 class="footer-title">Nuestros servicios</h4>
                                 <ul class="list-style-two">
-                                    <li><a>Páginas web</a></li>
-                                    <li><a>Diseño de APPs</a></li>
-                                    <li><a>Tienda virtuales</a></li>
-                                    <li><a>Sistemas web</a></li>
+                                    <li><a href="servicios.php">Páginas web</a></li>
+                                    <li><a href="servicios.php">Tienda virtuales</a></li>
+                                    <li><a href="servicios.php">Sistemas web</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -75,7 +73,6 @@
                     <div class="copyright-inner pt-15">
                         <div class="social-style-one mb-10">
                             <a href="https://www.facebook.com/20IP22"><i class="fab fa-facebook-f"></i></a>
-                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                             <a href="https://api.whatsapp.com/send?phone=51928986980" target="_blank"><i class="fab fa-whatsapp"></i></a>
                         </div>
                         <p>Copyright 2022 Innovatec Proyectos - Todos los derechos reservados.</p>
@@ -89,6 +86,36 @@
     <!-- Scroll Top Button -->
     <button class="scroll-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></button>
     
+    <!-- Messenger Chat Plugin Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Chat Plugin code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "105851632156456");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v14.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
 
     <!--====== Jquery ======-->
     <script src="assets/js/jquery-3.6.0.min.js"></script>
