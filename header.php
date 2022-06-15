@@ -17,6 +17,7 @@
     
     <!--====== Font Awesome ======-->
     <link rel="stylesheet" href="assets/css/font-awesome-5.9.0.css">
+    <link rel="stylesheet" href="assets/css/wsp.css">
     <!--====== Bootstrap ======-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--====== Magnific Popup ======-->
