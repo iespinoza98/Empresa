@@ -4075,7 +4075,7 @@ h1, h2, h3, h4, h5, h6, .success-item .count-text, .pricing-header .price {
 /** Header Main Menu **/
 @media only screen and (max-width: 991px) {
   .main-menu {
-    width: 100%; } }
+    width: 70%; } }
 
 @media only screen and (max-width: 480px) {
   .main-menu .mobile-logo {
@@ -4913,30 +4913,30 @@ h1, h2, h3, h4, h5, h6, .success-item .count-text, .pricing-header .price {
         transform: translateY(100px); } }
 
 .about-image-shape {
-  max-width: 555px;
+  max-width: 5px;
   position: relative;
   z-index: 1; }
   .about-image-shape:before {
     content: '';
     height: 70%;
-    width: 86%;
+    width: 16%;
     left: -9px;
     z-index: -1;
     bottom: 42px;
     position: absolute;
-    background: #104cba;
+    background: #f17e11;
     -webkit-animation: borderRadius1 8s ease-in-out infinite;
     animation: borderRadius1 8s ease-in-out infinite;
     border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
   .about-image-shape:after {
     content: '';
-    height: 97%;
+    height: 17%;
     width: 76%;
     top: 13px;
     left: 13px;
     z-index: -1;
     position: absolute;
-    background: #273540;
+    background: red;
     -webkit-animation: borderRadius2 8s ease-in-out infinite;
     animation: borderRadius2 8s ease-in-out infinite;
     border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
